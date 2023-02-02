@@ -1,0 +1,3 @@
+FİNAL metodların başında olursa değiştirilemez
+    //değişkenlerin de başında olursa değeri sonradan değiştirilemez
+    //classların başında olduğundu EXTENDS edilemez

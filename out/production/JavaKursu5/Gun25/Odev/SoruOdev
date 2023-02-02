@@ -1,0 +1,6 @@
+bir bordo programı yapılmak isteniyor.
+her çalışanın bordoNo(int), tamAdi(String) ve maasi(int) vardır.
+kullanıcıdan 20 çalışan için bu bilgileri alınız.
+bir metodda bütün çalışanlar yazdırınız
+bir metodda maaş ortalamasını yazdırınız.
+bir metodda en fazla ve en az maaş alanların isimlerini yazdırınız.
